@@ -262,4 +262,3 @@ You can add basic animations using Tailwind's utility classes:
   <CarCard car={car} />
 </div>
 
-This is a basic starting point. You can customize the components, pages, and styling as needed!
